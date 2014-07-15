@@ -22,11 +22,7 @@ Setup
 
 To get you going with this application, just follow along
 
-Scala, SBT and Play must be installed - the following assumes you are using "Homebrew", if not, tough luck:
-> brew install scala
-
-> brew install sbt
-
+By using Typesafe's Activator, Scala, SBT and Play will be installed - the following assumes you are using "Homebrew", if not, tough luck:
 > brew install typesafe-activator
 
 That last "brew" command in the past would have been "brew install play" but as of Play 2.3.0, the typesafe activator is utilised.
