@@ -25,9 +25,6 @@ To get you going with this application, just follow along
 By using Typesafe's Activator, Scala, SBT and Play will be installed - the following assumes you are using "Homebrew", if not, tough luck:
 > brew install typesafe-activator
 
-That last "brew" command in the past would have been "brew install play" but as of Play 2.3.0, the typesafe activator is utilised.
-(In the following commands "activator" is again used instead of the usual "play").
-
 In a directory where you wish to clone this project from git:
 > $ git clone https://github.com/davidainslie/play-utilities.git
 
