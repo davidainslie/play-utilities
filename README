@@ -40,11 +40,11 @@ Go into the application's new project directory and complete the following:
 
 > $ activator
 
-> [json-schema-ui] $ update-classifiers
+> [play-utilities] $ update-classifiers
 
-> [json-schema-ui] $ idea sbt-classifiers with-sources=yes
+> [play-utilities] $ idea sbt-classifiers with-sources=yes
 
-> [json-schema-ui] $ test
+> [play-utilities] $ test
 
 Hopefully all "tests" will pass and you can now open up IntelliJ and start doing some damage.
 (Sorry for not including Eclipse, but just replace the above "idea" entry appropriately).
